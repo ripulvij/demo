@@ -1,4 +1,0 @@
-#DEMO
-
-Sample file
-Trouble
